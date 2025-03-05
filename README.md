@@ -1,14 +1,13 @@
 👋 Hey there! I'm Maksym Zhurenko
 🚀 Tech Talent Orchestrator | IT Recruitment Enthusiast
 As an IT Recruiter at WebbyLab, I'm passionate about bridging the gap between exceptional talent and groundbreaking tech opportunities. My mission? To transform the recruitment landscape, one brilliant candidate at a time.
-🔍 What I Do
 
+🔍 What I Do
 💡 Talent Acquisition Specialist
 🌐 Tech Ecosystem Navigator
 🤝 Professional Network Architect
 
 🛠️ My Recruitment Tech Stack
-
 Advanced Sourcing Techniques
 Candidate Experience Design
 Employer Branding Strategies
@@ -22,7 +21,7 @@ LinkedIn Networking Pro
 📈 Passion: Building High-Performance Tech Teams
 🌍 Goal: Connecting Top Talent Globally
 
-💌 Let's Connect!
+😉  Let's Connect!
 
 📧 Email: maksym.zhurenko@webbylab.com
-🔗 LinkedIn: Maksym Zhurenko
+🔗 LinkedIn: [Maksym Zhurenko](https://www.linkedin.com/in/maksymzhurenko)
