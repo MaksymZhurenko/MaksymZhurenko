@@ -1,6 +1,10 @@
+<div align="center">
+<img src="https://webbylab.com/wp-content/uploads/2023/06/1200x630.png" width="300" alt="WebbyLab Logo">
+
 # 👋 Hey there! I'm Maksym Zhurenko 🚀
 
-## IT Recruiter
+## IT Recruiter at WebbyLab
+</div>
 
 My goal is to make the hiring process smooth and exciting for both companies and candidates.
 
